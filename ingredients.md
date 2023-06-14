@@ -1,3 +1,5 @@
+Let's begin!
+
 Ingredients:
 
 2 cans baked beans
@@ -13,3 +15,4 @@ Salsa
 Sour cream
 Tortilla chips
 
+Enjoy my recipe!
