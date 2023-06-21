@@ -1,11 +1,18 @@
-### This is a LOCAL change :)
-# recipe
-line 2 changed remotely
-Repository for the ds-toolbox course.
+# The Recipe Project
 
-Bean Burritos Recipe
+### Summary
 
-Providing instructions on making bean burritos.
+This is the repository for the Recipe Project as part of the ds-toolbox course.
 
-last line changed locally
-### This is a REMOTELY change :O
+### Recipes
+
+The following recipes are included in this Project:
+
+1. **Bean Burritos Recipe**: providing instructions on making the ***world famous*** bean burritos.
+
+### Recipe Images
+
+This is what you'll be making:
+
+![Fantastic Bean Burritos!](recipe.jpg "World Famous Bean Burritos")
+
