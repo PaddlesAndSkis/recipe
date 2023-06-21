@@ -10,7 +10,9 @@ The following recipes are included in this Project:
 
 1. **Bean Burritos Recipe**: providing instructions on making the ***world famous*** bean burritos.
 
-
 ### Recipe Images
 
+This is what you'll be making:
+
+![Fantastic Bean Burritos!](recipe.jpg "World Famous Bean Burritos")
 
